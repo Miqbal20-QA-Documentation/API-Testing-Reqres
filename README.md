@@ -11,7 +11,7 @@
 <tr>
 <td>Object</td>
 <td> : </td>
-<td> <a href="https://reqres.in/">Miqbal20.site</a></td>
+<td> <a href="https://reqres.in/">Reqres</a></td>
 </tr>
 <tr>
 <td>Link</td>
