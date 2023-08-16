@@ -1,7 +1,5 @@
 ## API-Testing-Reqres
 
-## API-Testing-Miqbal20
-
 <table>
 <tr>
 <td>Tester</td>
