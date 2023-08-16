@@ -1,4 +1,4 @@
-## API-Testing-Reqres
+# API-Testing-Reqres
 
 <table>
 <tr>
