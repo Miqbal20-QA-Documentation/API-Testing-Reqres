@@ -16,6 +16,6 @@
 <tr>
 <td>Link</td>
 <td> : </td>
-<td> <a href="https://documenter.getpostman.com/view/20656678/2s946h9sM7">Test API Miqbal20</a></td>
+<td> <a href="https://documenter.getpostman.com/view/20656678/2s946h9sM7">Test API Reqres</a></td>
 </tr>
 <table>
